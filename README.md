@@ -17,6 +17,7 @@ To run this project, you will needs:
 
 ## Environtment
 Open your ./bashrc file, then add this line into it. (Your path maybe different)
+
 `export JAVA_HOME=/usr/lib/jvm/java-8
 export ANDROID_HOME=/home/asus/Android/Sdk
 export PATH=$PATH:$ANDROID_HOME/tools 
